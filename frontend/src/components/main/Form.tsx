@@ -242,12 +242,12 @@ const Form = () => {
 					Оплатить
 				</Button>
 				<span className='text-[14px] text-white font-bold mt-4'>
-					Нажимая “Оплатить”, вы принимаете{' '}
+					Нажимая “Оплатить”, вы принимаете
 					<span className='text-emerald-500 font-bold hover:text-emerald-400 cursor-pointer transition-all'>
 						Правила пользования
-					</span>{' '}
+					</span>
 					<br />
-					сайтоми и{' '}
+					сайтоми и
 					<span className='text-emerald-500 font-bold hover:text-emerald-400 cursor-pointer transition-all'>
 						Политику конфиденциальности
 					</span>
